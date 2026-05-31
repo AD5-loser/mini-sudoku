@@ -6,5 +6,16 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
-  "icons": []
+  "icons": [
+    {
+      "src": "sudoku.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "sudoku.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
