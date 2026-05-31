@@ -1,0 +1,10 @@
+{
+  "name": "Mini Sudoku",
+  "short_name": "Sudoku",
+  "description": "A simple 4x4 Mini Sudoku puzzle game built with HTML, CSS and JavaScript.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": []
+}
